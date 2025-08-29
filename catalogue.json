@@ -3,15 +3,106 @@
     "books": [
         {
             "id": 1,
-            "title": "Percy Jackson & the Olympians: The Titan's Curse",
-            "subtitle": "Written by Rick Riordan, this Fantasy novel is the third book of a series that amazed me.",
-            "year": 2007
+            "title": "Percy Jackson & the Olympians Series",
+            "subtitle": "Written by Rick Riordan, this Fantasy novel series amazed me and inspired me a lot to write my own stories.",
+            "year": "2007-now",
+            "url": "https://m.media-amazon.com/images/I/817bp+OOARL._UF1000,1000_QL80_.jpg"
         },
         {
             "id": 2,
             "title": "The Pressure's Off: There is a Better Way to Live",
-            "subtitle": "By Larry Crabb, this book teaches you a lot about leaving your past actions and mistakes to God. p.s. I read the Portuguese version 'Chega de Regras'..",
-            "year": 2001
+            "subtitle": "By Larry Crabb, this book teaches you a lot about leaving your past actions and mistakes to God. p.s. I read the Portuguese version 'Chega de Regras'.",
+            "year": 2001,
+            "url": "https://m.media-amazon.com/images/I/719IsqkYQ3L._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Mere Christianity",
+            "subtitle": "By C.S. Lewis, this book is a great read for those who want to understand more about Christianity and its principles. ps. I'm still reading this one.",
+            "year": 1952,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSLdvljd4VzgYTLIiwtb5CqatS6GYH7WGLnA&s"
+        }
+    ],
+    "bands": [
+        {
+            "id": 1,
+            "name": "Oficina G3",
+            "genre": "Rock",
+            "founded": 1987,
+            "url": "https://adoreshows.com.br/wp-content/uploads/2024/07/oficinag3.webp"
+        },
+        {
+            "id": 2,
+            "name": "Resgate Band",
+            "genre": "Rock",
+            "founded": 1989,
+            "url": "https://guiame.com.br/_next/image?url=https%3A%2F%2Fthumbor.guiame.com.br%2Funsafe%2F840x500%2Fhttp%3A%2F%2Fmedia.guiame.com.br%2Farchives%2F2019%2F06%2F10%2F1447807278-banda-resgate.jpg&w=1920&q=75"
+        },
+        {
+            "id": 3,
+            "name": "Israel Subirá",
+            "genre": "Indie/Folk",
+            "founded": 2017,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebbcea702bdd6a3e14e65638ae"
+        },
+        {
+            "id": 4,
+            "name": "Skillet",
+            "genre": "Rock",
+            "founded": 1996,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSowaDIam_AwwN9lMS5Kt48z9qm0azTgqqD_N3LokFcfI0ODhV88jRueTvilBhLZE_J4YGt89VST9I-mOmWLsPhpQ"
+        },
+        {
+            "id": 5,
+            "name": "Thousand Foot Krutch",
+            "genre": "Nu Metal",
+            "founded": 1995,
+            "url": "https://www.ccmmagazine.com/wp-content/uploads/2016/06/Jun15-TFKfeat-750x400.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Rodolfo Abrantes",
+            "genre": "Rock/Pop",
+            "founded": 2006,
+            "url": "https://midias.em.com.br/_midias/jpg/2024/11/07/1000x1000/1_wmc6pagina16__2_-41474000.jpg?20241107194405?20241107194405"
+        }
+    ],
+
+    "games": [
+        {
+            "id": 1,
+            "title": "Hollow Knight",
+            "subtitle": "An indie Metroidvania game developed by Team Cherry. This games makes you cry with its story. It features a vast interconnected world, challenging combat, and beautiful hand-drawn art.",
+            "year": 2017,
+            "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000003208/4643fb058642335c523910f3a7910575f56372f612f7c0c9a497aaae978d3e51"
+        },
+        {
+            "id": 2,
+            "title": "Celeste",
+            "subtitle": "A platformer game developed by Maddy Makes Games. This games teaches A LOT about perseverance. It tells the story of a girl named Madeline, who climbs a mountain while dealing with lots of dangerous adventures.",
+            "year": 2018,
+            "url": "https://image.api.playstation.com/cdn/UP2120/CUSA11302_00/hgqlI1LTcsd6zuL7YWVLQ8d00jkBmtCg.jpg"
+            },
+        {
+            "id": 3,
+            "title": "Terraria",
+            "subtitle": "A sandbox adventure game developed by Re-Logic. This game is like a 2D version of Minecraft, but with dozens of bosses and creatures ready to one hit kill you.",
+            "year": 2011,
+            "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000001702/dac3a26570b5ca1ddf703bf0add7cc7c527f71a2b56521baf69e20c7a573c610"
+        },
+        {
+            "id": 4,
+            "title": "Minecraft",
+            "subtitle": "Pretty much most of the world know this game in some way. From the childrens game to its childhood favorite game. It gives you freedom to express your creativity through a peaceful blocky world.",
+            "year": 2009,
+            "url": "https://xboxwire.thesourcemediaassets.com/sites/8/2024/05/Hero-bdef2532984d6fcafc40.jpg"
+        },
+        {
+            "id": 5,
+            "title": "PEAK",
+            "subtitle": "This game is pure pain. But it's funny! You got to climb a mountain with your friends, who can help or kill you (most of times they will help, I think...).",
+            "year": 2025,
+            "url": "https://flowgames.gg/wp-content/uploads/2025/06/PEAK_KeyArt_No_Logo-1.jpg"
         }
     ]
 } 
