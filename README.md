@@ -1,6 +1,6 @@
 # 👋🏻 Welcome to my Catalogue!
 
-## This is a little project I made thinking in learn a bit of Expo 🧑🏻‍💻!
+## This is a microproject I made thinking in learning about Expo 🧑🏻‍💻!
 
 In this project I list:
 
