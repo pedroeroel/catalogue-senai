@@ -67,7 +67,7 @@ export default function CatalogueScreen() {
                 className="w-full h-72 mb-4 rounded object-cover"
               />
               <View className="flex-1">
-                <Text className="text-lg font-bold mb-1">{game.name}</Text>
+                <Text className="text-lg font-bold mb-1">{game.title}</Text>
                 <Text className="italic text-gray-600 mb-1">{game.subtitle}</Text>
                 <Text className="text-gray-400">{game.year}</Text>
               </View>
